@@ -1,0 +1,20 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.9.6.4" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="tabsHeight" value="30" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="tabOpacity" value="66" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="userId" value="-48f54177:167316f4283:-8000" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isWizardShown" value="true" />
+  </component>
+</application>
