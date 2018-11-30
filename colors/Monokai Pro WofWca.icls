@@ -1,11 +1,11 @@
-<scheme name="_@user_Monokai Pro" version="142" parent_scheme="Darcula">
+<scheme name="Monokai Pro WofWca" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-11-23T09:54:10</property>
+    <property name="created">2018-11-30T21:31:22</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-11-23T11:27:27</property>
-    <property name="originalScheme">Monokai Pro</property>
+    <property name="modified">2018-11-30T21:31:43</property>
+    <property name="originalScheme">_@user_Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="12" />
